@@ -1,5 +1,3 @@
-# Self-destruction Universe
-
 # Guestbook for w3schools.com Git tutorial
 
 This is the public GitHub project that you can contribute to.
@@ -17,7 +15,7 @@ We will not allow messages that are negative, or hurtful. Try to be welcome and 
 
 You can add almost anything to the index.html file between the indicated comments:
 
-`<!-- Insert your message below here -->`
+`<!-- Hope no one is seeing this right now. Thanks! -->`
 
 `<!-- End user messages -->`
 
